@@ -1,6 +1,6 @@
-# Week 10<br>Advanced Visualization and Github Pages
+# Week 11<br>Advanced Visualization and Github Pages
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MUSA-620-Spring-2019/week-10/master?filepath=lecture-11.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MUSA-620-Spring-2019/week-11/master?filepath=lecture-11.ipynb)
 
 ## Updating your local environment
 
