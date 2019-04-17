@@ -1,0 +1,44 @@
+name: musa-620
+channels:
+  - conda-forge
+  - defaults
+  - pyviz
+  - clinicalgraphics
+  - udst
+dependencies:
+  - python=3.6
+  - numpy
+  - pandas
+  - matplotlib
+  - geopandas
+  - cartopy
+  - altair
+  - vega_datasets
+  - notebook
+  - vega=1.3
+  - seaborn
+  - hvplot
+  - geoviews
+  - requests
+  - census
+  - selenium
+  - beautifulsoup4
+  - requests
+  - geckodriver
+  - selenium-chromedriver
+  - imageio
+  - datashader
+  - dask
+  - fastparquet
+  - python-snappy
+  - pyarrow
+  - pandana
+  - osmnx
+  - scikit-learn
+  - folium
+  - pip:
+      - carto
+      - pyrestcli
+      - census_area
+      - tweepy
+      - textblob
