@@ -27,7 +27,7 @@ No new packages this week!
     - [Examples](https://observablehq.com/@larsvers/d3-hexgrid-examples)
 - Vega-Lite
   - [Introduction to Vega-Lite from the UW Data Lab](https://observablehq.com/@uwdata/introduction-to-vega-lite)
-    - Check out their page for more Vega-Lite tutorials:
+    - Check out their page for more Vega-Lite tutorials: https://observablehq.com/@uwdata
   - [Examples using Vega-Lite API](https://observablehq.com/collection/@vega/vega-lite-api)
   - [Documentation](https://vega.github.io/vega-lite/docs/)
 - [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/)
